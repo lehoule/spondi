@@ -1,0 +1,17 @@
+{
+  "name": "Spondi Care Journal",
+  "short_name": "Spondi",
+  "description": "A private symptom journal for clearer medical appointments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#f4f1e9",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
